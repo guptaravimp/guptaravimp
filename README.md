@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
 <h3 align="center">A passionate software Developer Engineer from India</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="400px" align="right" alt="">
 - 🌱 I’m currently learning **DSA, Web developement**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-gupta-44bb451b1/](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)
