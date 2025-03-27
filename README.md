@@ -7,8 +7,8 @@
 - 💻 I’m currently working as a **Content Development-Tech Intern at Unstop**
 - 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
 - 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
-- 🤖 Experienced in **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Portfolio](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)**
+- 🤖 Learning  **AI-Integrated Website Development**
+- 📚 Check out my projects on **[Project & work ](https://github.com/guptaravimp?tab=repositories)**
 - 👤 Previously interned at **Bluestock Fintech (Frontend Developer) & GeeksforGeeks (Technical Content Writer)**
 - 📝 Published multiple articles on **GeeksforGeeks** related to Software Development
 - 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning, and NLP**
