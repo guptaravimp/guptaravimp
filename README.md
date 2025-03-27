@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **DSA, Web Development, Machine Learning, and NLP**
 - 💻 I’m currently working as a **Content Development-Tech Intern at Unstop**
 - 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
+- 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
+- 🤖 Experienced in **AI-Integrated Website Development**
 - 📚 Check out my projects on **[Portfolio](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)**
 - 👤 Previously interned at **Bluestock Fintech (Frontend Developer) & GeeksforGeeks (Technical Content Writer)**
 - 📝 Published multiple articles on **GeeksforGeeks** related to Software Development
@@ -34,3 +36,6 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptaravimp&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptaravimp&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaravimp&" alt="GitHub Streak" /></p>
